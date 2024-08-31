@@ -42,7 +42,7 @@ export default function Footer() {
                     <h2 className="font-bold text-xl mb-2">Quick Links</h2>
                     <div className="flex space-x-4">
                       <Link href="https://www.facebook.com/share/oQ7kQKh3ydppbGCF/?mibextid=LQQJ4d" target="_blank" rel="noreferrer">
-                        {/* Facebook SVG */}
+                      fb
                       </Link>
                       
                       
