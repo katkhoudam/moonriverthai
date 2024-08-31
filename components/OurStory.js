@@ -1,9 +1,8 @@
 'use client';
 
-import React from 'react';
-import Image from 'next/image';
 
-import storyImage2 from "../public/our-story-2.jpg";
+
+
 
 export const OurStory = () => {
   return (
