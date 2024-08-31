@@ -9,7 +9,7 @@ export default function Footer() {
                     <h2 className="font-bold text-xl mb-2">About Us</h2>
                     <p>
                       For general comments or questions about catering needs,
-                      reservations, ordering, menu items etc., please call MoonRiver Thai
+                      reservations, ordering, menu items etc., please call Moon River
                       Restaurant directly during business hours.
                     </p>
                   </div>
@@ -20,8 +20,8 @@ export default function Footer() {
                   <h2 className="text-lg font-bold">EMAIL:</h2>
                   <p>contact@moonriverthai.com</p>
                   <h2 className="text-lg font-bold">ADDRESS:</h2>
-                  <p>627 N Main St, Danville, VA, </p>
-                  <p>United States, Virginia</p>
+                  <p>627 N Main St, Danville, Virginia 24540 </p>
+                
                   </div>
                   <div>
                     <h2 className="font-bold text-xl mb-2">Careers</h2>
@@ -34,7 +34,7 @@ export default function Footer() {
                   </div>
                   <div>
                     <h2 className="font-bold text-xl mb-2">Hours of Operation</h2>
-                    <p>Mon - Thurs 11am - 9pm</p>
+                    <p>Mon - Fri 11:30 am - 2:30pm </p>
                     <p>Fri & Sat 11am - 10pm</p>
                     <p>Sunday 12pm – 7pm</p>
                   </div>
